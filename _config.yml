@@ -20,7 +20,7 @@ description: A collection of data science projects
 
 # List of links in the navigation bar
 navbar-links:
-  About Me: "aboutme"
+  Bio: "aboutme"
   Resources:
     - Beautiful Jekyll: "http://deanattali.com/beautiful-jekyll/"
     - Learn markdown: "http://www.markdowntutorial.com/"
